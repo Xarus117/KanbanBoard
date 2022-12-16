@@ -1,0 +1,8 @@
+.container {
+    display: table-cell;
+    padding: 10px;
+}
+
+.titulo {
+    font-size: 30px;
+}

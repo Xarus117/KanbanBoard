@@ -1,0 +1,61 @@
+.item {
+  background-color: antiquewhite;
+  padding: 20px;
+  box-shadow: 1px 1px 10px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.imagen-user {
+  height: 50px;
+  width: 50px;
+  box-shadow: 1px 1px 5px;
+}
+
+.usuario {
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.imagen {
+  height: 150px;
+  width: auto;
+  box-shadow: 1px 1px 5px;
+}
+
+.titulo {
+  font-size: 20px;
+}
+
+.todo {
+  margin-right: 40px;
+}
+
+.blue {
+  color: blue;
+}
+
+.green {
+  color: green;
+}
+
+.grey {
+  color: grey;
+}
+
+.red {
+  color: red;
+}
+
+.orange {
+  color: orange;
+}
+
+.example-card {
+  max-width: 400px;
+}
+
+.example-header-image {
+  background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+  background-size: cover;
+}

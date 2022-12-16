@@ -1,0 +1,10 @@
+.card {
+  margin: 100px 830px 50px 830px;
+  text-align: center;
+}
+
+.imagen-user {
+  height: 50px;
+  width: 50px;
+  box-shadow: 1px 1px 5px;
+}
